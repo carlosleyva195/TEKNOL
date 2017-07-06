@@ -1,0 +1,7 @@
+El test consiste en maquetar la imagen del enlace utilizando el framework Twitter Bootstrap, cuidando que el resultado se visualice de manera 
+óptima en destop, tablet y movil. Sólo se proporciona el diseño para desktop, la forma de acomodar las cosas utilizando la funcionalidad 
+responsive de Bootstrap en movil y en tablet va a criterio de ustedes.
+
+Favor de enviar el enlace a un repositorio en github, o un enlace a un pen en codepen.io, con el resultado.
+
+No es necesario agregar ninguna funcionalidad del lado del servidor, sólo agregar archivos estáticos (html/css/js).
